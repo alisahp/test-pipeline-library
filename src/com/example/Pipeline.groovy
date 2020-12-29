@@ -1,6 +1,6 @@
 package com.example
 
-class Pipeline {
+/* class Pipeline {
     def script
     def configurationFile
 
@@ -21,6 +21,7 @@ class Pipeline {
 //    ===================== End pipeline ==============================
     }
 }
+*/
 
 pipeline {
    agent any
