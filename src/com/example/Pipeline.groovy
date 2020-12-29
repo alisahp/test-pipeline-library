@@ -1,6 +1,6 @@
 package com.example
 
-/* class Pipeline {
+class Pipeline {
     def script
     def configurationFile
 
@@ -21,9 +21,9 @@ package com.example
 //    ===================== End pipeline ==============================
     }
 }
-*/
 
-pipeline {
+
+/*pipeline {
    agent any
 
 // Installing the maven tool 
@@ -122,3 +122,4 @@ pipeline {
 		}
 	}
 }
+*/
