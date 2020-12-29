@@ -43,7 +43,7 @@ class Pipeline {
    in every dir according to value parsed from the config.yml;
    Then we are going to execute the appropriate maven command 
    exported also from the config.yml
-*/
+
 
         stage('build') {
 			steps {
